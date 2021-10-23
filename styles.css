@@ -1,0 +1,129 @@
+.wrapper{
+    max-width:960px;
+    margin:0 auto;
+    padding:0px;
+
+}
+.Nav{
+    background-color:brown;
+    padding:0px;
+    margin:0px;
+}
+.Nav ul{
+    list-style-type: none;
+    display:inline-block; 
+    
+    
+}
+
+.Nav a{
+    text-decoration: none;
+    color:white;
+    font-size:2rem;
+       
+}
+.Nav a:hover{
+    background-color: lightskyblue;
+}
+.Head{
+    
+    background-color:rgb(63, 202, 168);
+    padding: 50px;
+}
+.Head h1{
+    color: black;
+    text-align: right;
+    font-weight: bold;
+    font-size: 3rem;
+    
+}
+.Head p{
+    color:tomato;
+    text-align:center;
+    font-size:30px;
+    float:right;
+    
+}
+.Head input{
+    
+    align-items: center;
+    display:block;
+    padding:8px;
+    margin:0px;
+}
+
+    
+
+.main{
+    background-color: rgb(24, 85, 163);
+    padding:200px;
+}
+.main h2{
+    color:white;
+    text-decoration:underline;
+    text-align: center;
+    font-size: 2rem;
+}
+.main img{
+    display:block;
+    max-width:500px;
+    padding: 2px;
+    margin:2px;
+}
+.main a{
+    text-decoration: none;
+    font-size: 2em;
+    color:white;
+}
+
+
+.footer{
+    background-color: gray;
+    padding:100px;
+}
+
+.footer h1{
+    color:white;
+    text-align: center;
+    font-size: 4rem;
+}
+.footer p{
+    color:white;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.form{
+    
+    color:white;
+    display:block;
+    border:8px solid;
+    border-radius: 20px ;
+    max-width:200px;
+    padding: 20px;
+    margin:20px;
+    background-color:rgb(74, 124, 121);
+}
+.form input{
+    text-align:center;
+}
+
+.footer img{
+    display:inline-block;
+    border:2px solid lightskyblue;
+    border-radius: 60px;
+    max-width:40px;
+    padding: 20px;
+    margin:2px;
+
+}
+.footer img:hover{
+    background-color: white;
+}
+
+.footer span{
+    display: inline-block;
+    color:white;
+    padding:10px;
+    margin:4px;
+}
